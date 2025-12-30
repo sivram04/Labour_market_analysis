@@ -106,6 +106,6 @@ This analysis can be applied in several real-world contexts, including:
 
 ---
 
-## 10. Conclusion
+## 12. Conclusion
 This project demonstrates an end-to-end analytical workflow, from raw data preparation in SQL to insight-driven analysis and storytelling in Power BI. It highlights how labor market data can be structured and analyzed to support informed, data-driven decisions.
 
